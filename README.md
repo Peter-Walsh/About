@@ -1,4 +1,4 @@
-# About-me
+# About
 
 ### Hello World!
 My name's Peter, and I'm a rising junior at Stony Brook University, working my way towards my B.S. in Computer Science! 
@@ -13,4 +13,4 @@ This fall, I'm going to be looking for internships for the Spring and Summer of 
 
 ### What is this place
 
-The reason I gravitate toward computer science is, simply put, because I like to build stuff. Throughout my undergrad, I've spent a great deal of time building toy projects that both incorporate ideas from my coursework, as well as new technologies I haven't officially covered yet. These toy projects needed a better place to live than on my local machine, and GitHub was the perfect place. Table of contents for my other repositories coming soon...
+This is where I store all the source code for the projects I've been working on in both my coursework and spare time. I've spent a great deal of time building toy projects that both incorporate ideas from my coursework, as well as new technologies I haven't officially covered yet. These toy projects needed a better place to live than on my local machine, and GitHub was the perfect place. Table of contents for my other repositories coming soon...
