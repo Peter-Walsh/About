@@ -10,7 +10,7 @@ Everything down below are just placeholders, don't take them too seriously.
 ### Natural Language Processing
 
 * [Key Terms Extractor](https://github.com/Peter-Walsh/Key-Terms-Extractor)
-* Regex Engine
+* [Regex Engine](https://github.com/Peter-Walsh/Regex-Engine)
 
 ### Webscrapers
 
@@ -19,9 +19,24 @@ Everything down below are just placeholders, don't take them too seriously.
 
 ## Web Applications
 
-* Weather App
-* Web Calender
-* Website
+* [Weather App](https://github.com/Peter-Walsh/Weather-App/tree/main/web)
+* [Web Calender](https://github.com/Peter-Walsh/Web-Calender)
+* [Website](https://github.com/Peter-Walsh/Website)
+
+### Calculators
+
+* [Simple Calculator](https://github.com/Peter-Walsh/Calculator)
+* [Linear Systems Solver](https://github.com/Peter-Walsh/LinearEquationsSolver)
+* [Matrix Processor](https://github.com/Peter-Walsh/NumericMatrixCalculator)
+
+### Misc Java Projects
+
+* [Simple Banking System](https://github.com/Peter-Walsh/SimpleBankingSystem)
+* [Phone Book](https://github.com/Peter-Walsh/PhoneBook)
+
+### Games
+
+* [Tic-Tac-Toe](https://github.com/Peter-Walsh/Tic-Tac-Toe)
 
 
 
