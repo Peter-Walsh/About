@@ -9,7 +9,7 @@ Everything down below are just placeholders, don't take them too seriously.
 
 ### Natural Language Processing
 
-* Key Terms Extractor
+* [Key Terms Extractor](https://github.com/Peter-Walsh/Key-Terms-Extractor)
 * Regex Engine
 
 ### Webscrapers
