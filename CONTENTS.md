@@ -23,18 +23,18 @@ Everything down below are just placeholders, don't take them too seriously.
 * [Web Calender](https://github.com/Peter-Walsh/Web-Calender)
 * [Website](https://github.com/Peter-Walsh/Website)
 
-### Calculators
+## Calculators
 
 * [Simple Calculator](https://github.com/Peter-Walsh/Calculator)
 * [Linear Systems Solver](https://github.com/Peter-Walsh/LinearEquationsSolver)
 * [Matrix Processor](https://github.com/Peter-Walsh/NumericMatrixCalculator)
 
-### Misc Java Projects
+## Misc Java Projects
 
 * [Simple Banking System](https://github.com/Peter-Walsh/SimpleBankingSystem)
 * [Phone Book](https://github.com/Peter-Walsh/PhoneBook)
 
-### Games
+## Games
 
 * [Tic-Tac-Toe](https://github.com/Peter-Walsh/Tic-Tac-Toe)
 
