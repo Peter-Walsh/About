@@ -1,9 +1,9 @@
 # Table of Contents
-This is going to be the table of contents for all of my public repositories. How I will arrange them, I'm not sure yet. I will probably go off of the type of project it was and the programming language. 
+Welcome to the table of contents for all of my projects! 
 
-I'll probably include a link to each repository with a brief description. For most of my projects, there should be a readme that describes the project in detail so I think I want to make sure I keep the description brief here. 
+All of the links to the projects here are just links to my other repositories on this account, so you can find them there. I figured this might be an easier way for people to look at the things I've been working on though.
 
-Everything down below are just placeholders, don't take them too seriously. 
+Please note, there are a few placeholder projects in here (they don't have links).
 
 ## Data Science Projects
 
