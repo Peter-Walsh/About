@@ -7,15 +7,10 @@ Please note, there are a few placeholder projects in here (they don't have links
 
 ## Data Science Projects
 
-### Natural Language Processing
-
 * [Key Terms Extractor](https://github.com/Peter-Walsh/Key-Terms-Extractor)
+* [IBM Data Science Notebooks](https://github.com/Peter-Walsh/IBM-DataScience)
 * [Regex Engine](https://github.com/Peter-Walsh/Regex-Engine)
 
-### Webscrapers
-
-* Stock Scrapper notebooks
-* Jetbrains project
 
 ## Web Applications
 
