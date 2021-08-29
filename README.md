@@ -1,16 +1,42 @@
 # About
 
 ### Hello World!
-My name's Peter, and I'm a rising junior at Stony Brook University, working my way towards my B.S. in Computer Science! 
+My name's Peter, and I'm a junior at Stony Brook University, working my way towards my B.S. in Computer Science! 
 
-My first ever contact with CS as a field of study was during the first semester of my undergrad at Stony Brook. During my first semester, I enrolled in an introductory programming course to satisfy a general education requirement. Much to my surprise, it inspired me to take another CS course the following semester, and before I knew it, I was a computer science major. At first, CS was far from my intended direction, but now that I'm here, I couldn't imagine doing anything else!
-
-### What am I up to
-
-This past summer, I was an undergraduate teaching assistant for an introductory computer science course (Computer Science Principles/CSE-101), and I'm looking forward to continuing my TAship in person this fall. I'm also in the process of earning IBM's professional certificate in Data Science. 
-
-This fall, I'm going to be looking for internships for the Spring and Summer of 2022. My interests are in artificial intelligence/machine learning, data science, NLP, and computer vision. I'd also like to dabble in web and mobile development at some point. 
+My first ever contact with CS as a field of study was during the first semester of my undergrad at Stony Brook. During my first semester, I enrolled in an introductory programming course to satisfy a general education requirement. Much to my surprise, it inspired me to take another CS course the following semester, and before I knew it, I was a computer science major. When I started my undergrad, my intention was never to pursue a degree in computer science, but now that I am, I couldn't see myself studying anything else.
 
 ### What is this place
 
-This is where I store all the source code for the projects I've been working on in both my coursework and spare time. I've spent a great deal of time building toy projects that both incorporate ideas from my coursework, as well as new technologies I haven't officially covered yet. These toy projects needed a better place to live than on my local machine, and GitHub was the perfect place. Table of contents for my other repositories coming soon...
+Programming and developing software is both my field of study and one of my favorite passtimes. I love finding new ways to build things and exploring different technologies, and over the course of my education at Stony Brook I have constructed many of my own toy projects. 
+
+# Table of Contents
+Welcome to the table of contents for all of my projects! 
+
+
+## Data Science Projects
+
+* [Key Terms Extractor](https://github.com/Peter-Walsh/Key-Terms-Extractor)
+* [IBM Data Science Notebooks](https://github.com/Peter-Walsh/IBM-DataScience)
+* [Regex Engine](https://github.com/Peter-Walsh/Regex-Engine)
+
+
+## Web Applications
+
+* [Weather App](https://github.com/Peter-Walsh/Weather-App/tree/main/web)
+* [Web Calender](https://github.com/Peter-Walsh/Web-Calender)
+* [Website](https://github.com/Peter-Walsh/Website)
+
+## Calculators
+
+* [Simple Calculator](https://github.com/Peter-Walsh/Calculator)
+* [Linear Systems Solver](https://github.com/Peter-Walsh/LinearEquationsSolver)
+* [Matrix Processor](https://github.com/Peter-Walsh/NumericMatrixCalculator)
+
+## Misc Java Projects
+
+* [Simple Banking System](https://github.com/Peter-Walsh/SimpleBankingSystem)
+* [Phone Book](https://github.com/Peter-Walsh/PhoneBook)
+
+## Games
+
+* [Tic-Tac-Toe](https://github.com/Peter-Walsh/Tic-Tac-Toe)
