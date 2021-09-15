@@ -15,7 +15,7 @@ Welcome to the table of contents for all of my projects! Below you will find a b
 Right now there are only 3 projects here. This document is kind of a work in progress.
 
 
-## [Web Calender](https://github.com/Peter-Walsh/Web-Calender)
+## [Web Calender](https://github.com/PeteyLumpkins/Web-Calender)
 ### Description
 Simple REST service using the Flask framework to save and manage a calendar of events. Worked with a database using Flask-SQLAlchemy extension and created resources using the Flask-RESTful extension.
 ### What I learned
@@ -25,7 +25,7 @@ Simple REST service using the Flask framework to save and manage a calendar of e
 * Postman
 * Python Datetime Objects
 
-## [Key Terms Extractor](https://github.com/Peter-Walsh/Key-Terms-Extractor)
+## [Key Terms Extractor](https://github.com/PeteyLumpkins/Key-Terms-Extractor)
 ### Description
 Small Python application that attempts to identify the subject of several news articles using nltk and scikit-learn.
 ### What I learned
@@ -34,7 +34,7 @@ Small Python application that attempts to identify the subject of several news a
 * Calculating TF-IDF scores using scikit-learn library
 * Processing xml files using Python's lxml library
 
-## [Weather App](https://github.com/Peter-Walsh/Weather-App)
+## [Weather App](https://github.com/PeteyLumpkins/Weather-App)
 ### Description
 Simple web application using Python and Flask framework to get and display weather data at a location using a weather api. 
 ### What I learned
