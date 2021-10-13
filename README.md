@@ -1,13 +1,11 @@
 # About
 
 ### Hello World!
-My name's Peter, and I'm a junior at Stony Brook University, working my way towards my B.S. in Computer Science! 
-
-My first ever contact with CS as a field of study was during the first semester of my undergrad at Stony Brook. During my first semester, I enrolled in an introductory programming course to satisfy a general education requirement. Much to my surprise, it inspired me to take another CS course the following semester, and before I knew it, I was a computer science major. When I started my undergrad, my intention was never to pursue a degree in computer science, but now that I am, I couldn't see myself studying anything else.
+My name's Peter, and I'm a junior studying computer science at Stony Brook University! 
 
 ### What is this place
 
-Programming and developing software is both my field of study and one of my favorite passtimes. I love finding new ways to build things and exploring different technologies. Over the course of my education at Stony Brook I have constructed many of my own toy projects to reinforce what I've been studying in my coursework and explore new technologies. This Github account contains repositories for most of the projects I have been working on throughout my time at Stony Brook.
+The reason I got into software development and computer science to begin with is because I like to build stuff. I love finding new ways to build things and exploring different technologies. Over the course of my education at Stony Brook I have constructed many of my own toy projects to reinforce what I've been studying in my coursework and explore new technologies. This Github profile is where I like to show off my side projects and, and keep everything I've been working on for the past couple years.
 
 # Table of Contents
 Welcome to the table of contents for all of my projects! Below you will find a breif description of each of my projects, as well as a link to each projects code repository.
