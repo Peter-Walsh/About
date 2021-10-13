@@ -1,13 +1,7 @@
 # About
 
 ### Hello World!
-My name's Peter, and I'm a junior studying computer science at Stony Brook University! 
-
-### A long, long time ago in a galaxy, not so far away...
-Alright so, if you're not interested in me or how I ended up, well, where I am. You can skip this section. But if you're interested in how I ended up as CS major at Stony Brook my story and my journey thoughout my education, well I'm going to try and lay it all out right here.
-
-
-How I ended up majoring in CS at Stony Brook is kind of a long story. When I first came to Stony Brook, I was an undecided major. I didn't know what I was doing with my life. In many ways, I still don't, but that's getting off topic. During my first semester at Stony Brook I enrolled in an intro programming/computer science course to satisfy one of my general education requirements. I had never taken any computer science coursework before so I really had no idea what I was walking into. At first, I was terrified. I had no idea how to code, and learning the basics of how to code, even in Python, was a nightmare at first. But I survived, and in the ended up loving the class. So much so that I kept taking CS coursework at Stony Brook until I wound up in the CS major. Now I'm back in that same intro course I took when I was a freshman, except, now I'm one of the teaching assitants. 
+My name's Peter, and I'm a junior studying computer science at Stony Brook University! If you're really interested in my story, and how I ended up at Stony Brook as a CS major, well check [this]() out.
 
 ### What is this place
 
