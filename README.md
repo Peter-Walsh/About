@@ -5,7 +5,7 @@ My name's Peter, and I'm a junior studying computer science at Stony Brook Unive
 
 ### What is this place
 
-The reason I got into software development and computer science to begin with is because I like to build stuff. I love finding new ways to build things and exploring different technologies. Over the course of my education at Stony Brook I have constructed many of my own toy projects to reinforce what I've been studying in my coursework and explore new technologies. This Github profile is where I like to show off my side projects and, and keep everything I've been working on for the past couple years.
+The reason I got into software development and computer science to begin with is because I like to build stuff. I love finding new ways to build things and exploring different technologies. Over the course of my education at Stony Brook I have constructed many of my own toy projects to reinforce what I've been studying in my coursework and explore new technologies. This Github profile is where I like to show off my side projects.
 
 # Table of Contents
 Welcome to the table of contents for all of my projects! Below you will find a breif description of each of my projects, as well as a link to each projects code repository.
