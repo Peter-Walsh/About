@@ -1,7 +1,7 @@
 # About
 
 ### Hello World!
-My name's Peter, and I'm a junior studying computer science at Stony Brook University! If you're really interested in my story, and how I ended up at Stony Brook as a CS major, well check [this]() out.
+My name's Peter, and I'm a junior studying computer science at Stony Brook University!
 
 ### What is this place
 
