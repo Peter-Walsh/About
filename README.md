@@ -4,7 +4,7 @@
 Hello world! My name's Peter, and I'm a junior studying computer science at Stony Brook University!
 
 ### What is this place
-This is basically where I keep all of the source code for all my projects that I've been working on for my classes and misc side projects.  
+This is basically where I keep all of the source code for all my projects. I'm working on a table of contents for each project below.
 
 # Table of Contents
 Welcome to the table of contents for all of my projects! Below you will find a breif description of each of my projects, as well as a link to each projects code repository.
